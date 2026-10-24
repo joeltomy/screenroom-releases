@@ -1,10 +1,10 @@
 {
-  "latest": 427015,
-  "name": "1.4",
-  "notes": "Second Test",
+  "latest": 427044,
+  "name": "1.5",
+  "notes": "",
   "minVersion": 0,
   "targets": [
-    "Joel"
+    "*"
   ],
-  "apk": "https://github.com/joeltomy/screenroom-releases/releases/download/v1.4/Screenroom-{tag}-v1.4.apk"
+  "apk": "https://github.com/joeltomy/screenroom-releases/releases/download/v1.5/Screenroom-{tag}-v1.5.apk"
 }

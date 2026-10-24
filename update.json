@@ -1,10 +1,10 @@
 {
-  "latest": 427001,
-  "name": "1.2",
-  "notes": "Pipeline test (ignore)",
+  "latest": 427009,
+  "name": "1.3",
+  "notes": "first test",
   "minVersion": 0,
   "targets": [
-    "Test"
+    "Joel"
   ],
-  "apk": "https://github.com/joeltomy/screenroom-releases/releases/download/v1.2/Screenroom-{tag}-v1.2.apk"
+  "apk": "https://github.com/joeltomy/screenroom-releases/releases/download/v1.3/Screenroom-{tag}-v1.3.apk"
 }

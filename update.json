@@ -1,10 +1,30 @@
 {
-  "latest": 427146,
-  "name": "1.6",
-  "notes": "Welcome to the screenroom beta",
+  "latest": 427318,
+  "name": "1.9",
+  "notes": "Security Update",
   "minVersion": 0,
   "targets": [
     "*"
   ],
-  "apk": "https://github.com/joeltomy/screenroom-releases/releases/download/v1.6/Screenroom-{tag}-v1.6.apk"
+  "apk": "https://github.com/joeltomy/screenroom-releases/releases/download/v1.9/Screenroom-{tag}-v1.9.apk",
+  "sha256": {
+    "cf6c9c7": "33e1158f43ea1bccfd5b66cc57afa8304a5599b1475e850de618120ae22c108a",
+    "c4559e1": "6c4245a61f84bbe3965c55c486cac51df4d5486425a0d0ff0ae97e81fd1fa418",
+    "c68d891": "8d395ece5e343c8c616fb743c1e14000080516c2fddce3247fc109f9383714a7",
+    "c6aac7c": "63388d39650d4580f0f85a4a2b262c95878fc590e750fc511ee1a97be4ccc457",
+    "c79220c": "02884338f898f0456c2af2dd7df46f024387fb54b952dee0ee6468dafe2b103b",
+    "c9514e5": "4e856630446d998a28eab048d3b3d9e778e73c369f747b87c24e0741c9f78c0a",
+    "ca44546": "d332f95cca3bcef5a411afd4b5adfd9b1e52a9e66547c78248779c595c00737f",
+    "c979670": "cbde8a17eed482ad21ffd83a14148b81a8d16b92e5e7d4731468070964eb415d"
+  },
+  "aliases": {
+    "2ab8c63918dd6dfe": "cf6c9c7",
+    "126aea4ecc899936": "c4559e1",
+    "f7240f883f6ae493": "c68d891",
+    "b6e0cfcbbd14d8d7": "c6aac7c",
+    "4ff17bc8ee5f240c": "c79220c",
+    "89c64b75fb811d3c": "c9514e5",
+    "a6761ccff1191f3e": "ca44546",
+    "34dff55406a7c598": "c979670"
+  }
 }

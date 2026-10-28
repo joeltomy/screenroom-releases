@@ -1,21 +1,21 @@
 {
-  "latest": 427711,
-  "name": "1.10",
-  "notes": "Leaving sites is much faster, search results work with the remote, Dulo added, your most-used sites come first, and sites you add can have a passcode.",
-  "minVersion": 0,
+  "latest": 432756,
+  "name": "1.11",
+  "notes": "Pages reopen instead of closing the app, Live TV checks the channels you watch first, smoother remote during videos, and fixes behind the scenes.",
+  "minVersion": 432756,
   "targets": [
     "*"
   ],
-  "apk": "https://github.com/joeltomy/screenroom-releases/releases/download/v1.10/Screenroom-{tag}-v1.10.apk",
+  "apk": "https://github.com/joeltomy/screenroom-releases/releases/download/v1.11/Screenroom-{tag}-v1.11.apk",
   "sha256": {
-    "cf6c9c7": "66749f27dec714bb9ed03f1a154df918a6b066aeec5272ec26a01d7ceee1cad2",
-    "c4559e1": "173739a96826b0768cf6a9130de56fadd992e3c752b5945be6834009c146953c",
-    "c68d891": "4375129c69f24c59c2da033bfe21689e183e0416d3f8a102cb29cb54d3d3d467",
-    "c6aac7c": "8d15369823c25d9668a45be7e55027f826be07ae28f6f2eadf31e6ffd14152ff",
-    "c79220c": "2ef8ddc560852e804bf3ceaf6fecc63fcee28ad65f2780e9e306d65ab1a59335",
-    "c9514e5": "3dcb837675147f0fe074f821f25118f94dfcb55f39e93cc0b1bce93cc6ad0f36",
-    "ca44546": "031c6adad6bce77138c4be8cb6c959bdcab2cecacbea75f75b1056bcbe219cbf",
-    "c979670": "811e288fe69e42b654458f2ace5dedaf960ea9a5d2178353d1edc94469f6f418"
+    "cf6c9c7": "bfdda25efe51074d1ac74d33b01ccbf06df10aa5fb8148e62a60f62640f02578",
+    "c4559e1": "0376930a7f2fcc30a4f4394acdaa041b01be8b4cd25c824f8f7ab3efd4635857",
+    "c68d891": "84a9f285034ad96d6db8d86b7f5bea789445d2fb638336eafd74fd851b77b1bb",
+    "c6aac7c": "ffa13c4b2b469a74c8131cc8b954e44da039ab0c162db6cce7f973cf0e8d23ba",
+    "c79220c": "215992489bb1449fe68862ae24d9ce9884fae8eabed97b54fca2c91acd3d20b8",
+    "c9514e5": "37c7a745410bcbba1a24863d2e1dcdb0cbd53adf8a8cd00c5c051e44a2065de2",
+    "ca44546": "0833e4316524b85a3ae7ad11b74406bfee94e03a4aefac27001b1fde7163c6b3",
+    "c979670": "d58145fa8cd5caa2335345582b8ccac5eff03cf7abf62e8fda523151ab40186f"
   },
   "aliases": {
     "2ab8c63918dd6dfe": "cf6c9c7",

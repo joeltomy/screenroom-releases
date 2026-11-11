@@ -1,21 +1,22 @@
 {
-  "latest": 450643,
-  "name": "1.12",
-  "notes": "Use your phone as a keyboard, trackpad and remote (phone icon on the home screen). Change Live TV channels with Up/Down on the TV remote. Atlantic's new address works. Plus a privacy page in Settings.",
-  "minVersion": 450643,
+  "latest": 452913,
+  "name": "1.13",
+  "notes": "",
+  "minVersion": 0,
   "targets": [
-    "*"
+    "c2f4d67"
   ],
-  "apk": "https://github.com/joeltomy/screenroom-releases/releases/download/v1.12/Screenroom-{tag}-v1.12.apk",
+  "apk": "https://github.com/joeltomy/screenroom-releases/releases/download/v1.13/Screenroom-{tag}-v1.13.apk",
   "sha256": {
-    "cf6c9c7": "c0fbbff77964be543ce362fc3296e0644046686b8bf6dd4f17d6a287abecc693",
-    "c4559e1": "a7aa88641b7d03dd7ee8cc9ff22884a6c56c535689a56adb2796d35190d66557",
-    "c68d891": "0de274b93ba6d6d0b2bfbf7575228d91687db61dc17fd6603a307a959e4a5474",
-    "c6aac7c": "8f054680880ebdcd0fa466b8535c827277ba52e92e2efff9bf877d08aa7722e4",
-    "c79220c": "e5557cf245d67e5249569771570244c4eeb4143051bb92df0291729666ddd437",
-    "c9514e5": "31998d3b459f328e4115eb37e7c5ff232d181b06ad43d3bd3428775766c30e4b",
-    "ca44546": "ce9e3ffb9e08c7eb55702b677920de5a59dd1c1d43cdca2d88a518b22e0483d8",
-    "c979670": "45040e2f537a127de04a1172901ba6942213f5c49f6c9703ede40c33abbc35e9"
+    "cf6c9c7": "fb5961116724660a083bacb667a6955025a28ed0175151dc58916819cbd87670",
+    "c4559e1": "884c29594f9b27031318d69f7a8b30980b4dbada93dc0c145cf6660e77956bfb",
+    "c68d891": "5c633d2c565b523579cd06340942757a35181e02376e66f3f6ae76002d32ae9a",
+    "c6aac7c": "8a216655e6dbe558cc825d76d773ba8e9e1b8930f84c0c71e2eb993e88fd2c92",
+    "c79220c": "ee49d1d52a31271c9c15e6a7d2e8fdd0b6e1348f4be21c4fd62a5e4050295e64",
+    "c9514e5": "bb810ac404906924427dd9571eb6d6a56b28dd7d94f7d63d53198edfd6544ffd",
+    "ca44546": "180658a0c9285a115673e19bbf9e0deeefb4c428ddf4a0f4886f5e808706af73",
+    "c979670": "dd62726d6e89c42821527c55674648ed003dd8016fdb85f8c083827199a02dc0",
+    "c2f4d67": "2fcdb8f8895d3ebb96083da45f611c08d0b77c161b1db9eac8fe5b57864700b2"
   },
   "aliases": {
     "2ab8c63918dd6dfe": "cf6c9c7",
@@ -25,6 +26,7 @@
     "4ff17bc8ee5f240c": "c79220c",
     "89c64b75fb811d3c": "c9514e5",
     "a6761ccff1191f3e": "ca44546",
-    "34dff55406a7c598": "c979670"
+    "34dff55406a7c598": "c979670",
+    "3227fe6bde46249b": "c2f4d67"
   }
 }

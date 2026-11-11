@@ -1,22 +1,22 @@
 {
-  "latest": 453145,
-  "name": "1.15",
-  "notes": "Test of 1.15: hold OK for the menu, Up/Down always changes Live TV channel, Left/Right channel list, phone remote works on any network.",
+  "latest": 453201,
+  "name": "1.17",
+  "notes": "Test: Left/Right opens the channel list; your phone buzzes and shows \"tap here to type\" when a box is selected; typing box clears after search; smoother trackpad; phones update inside Screenroom again.",
   "minVersion": 450643,
   "targets": [
     "ca44546"
   ],
-  "apk": "https://github.com/joeltomy/screenroom-releases/releases/download/v1.15/Screenroom-{tag}-v1.15.apk",
+  "apk": "https://github.com/joeltomy/screenroom-releases/releases/download/v1.17/Screenroom-{tag}-v1.17.apk",
   "sha256": {
-    "cf6c9c7": "63221c295b5bb6092aa4dd959a002155c0584a39ffd6b44d863fa23e042c1afa",
-    "c4559e1": "a25ac2b9843d8970e06bb5dd1d741336b56e7133be070c2dadb31d8d74b07680",
-    "c68d891": "a736e0cbb3a064359dab2ffebb62902457a15f72c5f44e84148ca4058dca7020",
-    "c6aac7c": "74ca130e510469848e953a020256cd5ab228dd59f9db02442ed2ea2c860855ad",
-    "c79220c": "086208188a2fb057cc3905053598b3115c9098121116ce3e247c787c40dc9e45",
-    "c9514e5": "14df8121dd48f5007bf76e88d381ff68af85f48f9904b11f3f9039b251fe2cc5",
-    "ca44546": "f8f0c20125f9e87dccb1c4d0ec4f7a7ec97083947c6e654052e0a9c07d542ee7",
-    "c979670": "05e49725c22f271f55daf9dc2e2cf7cdc7832d7990d46e5312fcd75c9384eddf",
-    "c2f4d67": "dfacf1ab0d0167a83157e88b567d42d2e4ce5abfd049052a9934b6ce05ba538c"
+    "cf6c9c7": "d1344d522006f7b6f2ced918054cc6c16aa1733b10a99899fbfa834c4553d810",
+    "c4559e1": "559c036657730abaf2d972cd302f669436c5c1e8a3484ee4f0656c108ae3115d",
+    "c68d891": "48ed46f84f448d7464cd7a0fab2a03a56892a474890ea8910401968319afcf57",
+    "c6aac7c": "fc83f1dc25bd0bf6dcbe42159eabcdd21f05a4e47cfa0c7098052c05efabe9c2",
+    "c79220c": "1262f74f37e4324e9ec32044015c574ed90feb4d30de8add8268ae5b7afe376d",
+    "c9514e5": "c5b261a8e80da6aa3451e89cc95e99a53f46d30cbfa1cb0d4b8212a5a62a717d",
+    "ca44546": "338899935265e71a618b00a3d9d2463d55a8e0d4034c48187c8cfa8e81e0618c",
+    "c979670": "d5dd60bac83aacfe2ec7de48d654eaab80a97e74e5b14fbc7f72711f3ab6f015",
+    "c2f4d67": "06fd0631f4f3c7d2b4825f58915f61c259ede691b3af795d4bfbab4809126e62"
   },
   "aliases": {
     "2ab8c63918dd6dfe": "cf6c9c7",

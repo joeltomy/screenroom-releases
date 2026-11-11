@@ -1,28 +1,22 @@
 {
-  "latest": 452948,
-  "name": "1.14",
-  "notes": "Use your phone as a keyboard, trackpad and remote (phone icon on the home screen). Change Live TV channels with Up/Down on the TV remote. Atlantic's new address works. Plus a privacy page in Settings.",
+  "latest": 453145,
+  "name": "1.15",
+  "notes": "Test of 1.15: hold OK for the menu, Up/Down always changes Live TV channel, Left/Right channel list, phone remote works on any network.",
   "minVersion": 450643,
   "targets": [
-    "c4559e1",
-    "c68d891",
-    "c6aac7c",
-    "cf6c9c7",
-    "c9514e5",
-    "c79220c",
-    "c979670"
+    "ca44546"
   ],
-  "apk": "https://github.com/joeltomy/screenroom-releases/releases/download/v1.14/Screenroom-{tag}-v1.14.apk",
+  "apk": "https://github.com/joeltomy/screenroom-releases/releases/download/v1.15/Screenroom-{tag}-v1.15.apk",
   "sha256": {
-    "cf6c9c7": "ccff00b54f04cf8df35bb39a474c192288e2a9948911b00bd8a837374ad4b2ef",
-    "c4559e1": "cce3f456d057ad00b46e101ac05bdc4610696e1658e84a4409246cea2e251564",
-    "c68d891": "485fc258a1ada387ef98a46dc8ef1d26e5ff0e790899fa047af87fa90320d6eb",
-    "c6aac7c": "7d1d4b2796e60f2a226483e8eb2956405e30af189fa54a985e54d29137bad5e9",
-    "c79220c": "0621a21afca9d923a7ab2fc449f1b35619c401fcc9006991694c2d4500a4e66c",
-    "c9514e5": "1fb0adb089426918f38205b42f7ed4813af50ec2f3850dc4987461cf465d3861",
-    "ca44546": "f7f49e23c0b0c064762e754ec2d12e9ff9dc9aa34dfbb16a42111d678ad46c4b",
-    "c979670": "14c409d6932fce894e863d9f660204890a93539331fe105c73f4d409b81b1ea1",
-    "c2f4d67": "e1bf7669f305899767e149332ae4b250433da76108c4129c2717e9a7bbdf32b6"
+    "cf6c9c7": "63221c295b5bb6092aa4dd959a002155c0584a39ffd6b44d863fa23e042c1afa",
+    "c4559e1": "a25ac2b9843d8970e06bb5dd1d741336b56e7133be070c2dadb31d8d74b07680",
+    "c68d891": "a736e0cbb3a064359dab2ffebb62902457a15f72c5f44e84148ca4058dca7020",
+    "c6aac7c": "74ca130e510469848e953a020256cd5ab228dd59f9db02442ed2ea2c860855ad",
+    "c79220c": "086208188a2fb057cc3905053598b3115c9098121116ce3e247c787c40dc9e45",
+    "c9514e5": "14df8121dd48f5007bf76e88d381ff68af85f48f9904b11f3f9039b251fe2cc5",
+    "ca44546": "f8f0c20125f9e87dccb1c4d0ec4f7a7ec97083947c6e654052e0a9c07d542ee7",
+    "c979670": "05e49725c22f271f55daf9dc2e2cf7cdc7832d7990d46e5312fcd75c9384eddf",
+    "c2f4d67": "dfacf1ab0d0167a83157e88b567d42d2e4ce5abfd049052a9934b6ce05ba538c"
   },
   "aliases": {
     "2ab8c63918dd6dfe": "cf6c9c7",

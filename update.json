@@ -1,23 +1,31 @@
 {
-  "latest": 453949,
-  "name": "1.18",
-  "notes": "Welcome to Screenroom.",
-  "minVersion": 450643,
+  "latest": 453990,
+  "name": "1.20",
+  "notes": "No Menu button on your remote? Hold OK for the menu. Live TV: Up/Down changes channel, Left/Right opens the channel list. Phone as remote now works on any network (hold OK, then Use phone as remote). Updates install inside the app again.",
+  "minVersion": 453201,
   "targets": [
-    "ccfd8d1"
+    "c4559e1",
+    "c68d891",
+    "c6aac7c",
+    "cf6c9c7",
+    "c9514e5",
+    "c79220c",
+    "c979670",
+    "c2f4d67",
+    "ca44546"
   ],
-  "apk": "https://github.com/joeltomy/screenroom-releases/releases/download/v1.18/Screenroom-{tag}-v1.18.apk",
+  "apk": "https://github.com/joeltomy/screenroom-releases/releases/download/v1.20/Screenroom-{tag}-v1.20.apk",
   "sha256": {
-    "cf6c9c7": "eef36d72a0141946af555faf2e49b60b5f21ec577bd2adf4ba1238abc8c17528",
-    "ccfd8d1": "76a0705800940d1b26dfa7a4c4e61fea2d96879622cfc854e4c9936874b889b7",
-    "c4559e1": "7de8e55fdf70be982b2ab55699d7a7e458bbff65876143b38c3113c3cb9c8880",
-    "c68d891": "becdf1aced46fd7c4038edb44609bf5e71e48b374b586c965ef4ab50bf6fabf6",
-    "c6aac7c": "67b3840013575afd40d1e610e71476cd884f7497e54c6249abe8c99bf214792b",
-    "c79220c": "14fb38fc4c93f2223fef6da7650523e3f0f0bc565400e34ee61d298cba3737a3",
-    "c9514e5": "7118453e7ae5eae02d53718bc171f508b8105ff9af12f08a3d139fbde4f1acc2",
-    "ca44546": "18d8cac74eb03171030adb357da53679c31c9858fb8737ee3ae6d52ea49fafd7",
-    "c979670": "6bb5c9d75ebe5645bd15fc2ae3d85eb45e694128b903cde6ec934281dcf7c2a5",
-    "c2f4d67": "81372f8fc2dcfa267d0e6ac049ba793c01cb25ec9ddcdf4088d3d54ec47be9be"
+    "cf6c9c7": "d4770c4905dc14e75dc8b72c7fff2ca44b2dd88fca3861673dfd6052f3a3e588",
+    "ccfd8d1": "f6930c7aec4647009af15d13e8343c84f745579ba326d57804be26eb58261428",
+    "c4559e1": "7380068a9bd11425cc9029fe177053b2eb7c07264b5c97aee56b5cc68ce27b6f",
+    "c68d891": "5b7bbbc24847ccb87e257daf1e6527fd097075636e5e8b7cf44eb4be024af61e",
+    "c6aac7c": "8af9b804b67a39e29166dfc71df9351be36f17fc67ba2e9b3da25f79bfcdd5dd",
+    "c79220c": "d4352fa51e2a632c98138c3445090c95e2ced08578c6f2cb42c87137c5c2fa63",
+    "c9514e5": "967b071bf60401644fbc691b255f5f5d7fb4954b3d1c7d8f06403a4be08b2874",
+    "ca44546": "2586a57dfc546aead7ddaac83e879265f40b3491d0c5e1e1c80e406e0d727c23",
+    "c979670": "1506e9501732094ad5754ced6dbd0702417b4d0519b2dd803947d366fddbd428",
+    "c2f4d67": "7ec2ebf340d1673398bbbef09cd54777ee72136cd0ee8312001101684fd499d0"
   },
   "aliases": {
     "2ab8c63918dd6dfe": "cf6c9c7",
